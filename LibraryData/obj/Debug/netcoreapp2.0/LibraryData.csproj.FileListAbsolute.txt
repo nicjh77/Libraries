@@ -1,0 +1,6 @@
+C:\Users\Pat\Desktop\Own_Project\Libraries\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+C:\Users\Pat\Desktop\Own_Project\Libraries\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Pat\Desktop\Own_Project\Libraries\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\Own_Project\Libraries\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Desktop\Own_Project\Libraries\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Pat\Desktop\Own_Project\Libraries\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
